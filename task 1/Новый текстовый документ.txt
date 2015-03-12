@@ -1,0 +1,12 @@
+ wakari.io  -- онлайн питон
+https://atlas.hashicorp.com/boxes/search?utm_source=vagrantcloud.com&vagrantcloud=1
+vagrant up ubuntu/trusty64 --provider virtualbox
+http://nbviewer.ipython.org/gist/fonnesbeck/2352771
+ http://www.diveintopython.net
+
+
+
+
+парпрог
+s27318@calcnoqueue.vdi.mipt.ru
+onega2008
